@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #191d28;
+}
+.rounded-left {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  
+.rounded-right {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
+  
+  
+  
